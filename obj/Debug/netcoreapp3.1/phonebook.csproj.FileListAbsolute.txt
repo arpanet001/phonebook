@@ -1,0 +1,13 @@
+C:\Users\SUN\Desktop\phonebook\bin\Debug\netcoreapp3.1\phonebook.exe
+C:\Users\SUN\Desktop\phonebook\bin\Debug\netcoreapp3.1\phonebook.deps.json
+C:\Users\SUN\Desktop\phonebook\bin\Debug\netcoreapp3.1\phonebook.runtimeconfig.json
+C:\Users\SUN\Desktop\phonebook\bin\Debug\netcoreapp3.1\phonebook.runtimeconfig.dev.json
+C:\Users\SUN\Desktop\phonebook\bin\Debug\netcoreapp3.1\phonebook.dll
+C:\Users\SUN\Desktop\phonebook\bin\Debug\netcoreapp3.1\phonebook.pdb
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.csprojAssemblyReference.cache
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.AssemblyInfoInputs.cache
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.AssemblyInfo.cs
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.dll
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.pdb
+C:\Users\SUN\Desktop\phonebook\obj\Debug\netcoreapp3.1\phonebook.genruntimeconfig.cache
